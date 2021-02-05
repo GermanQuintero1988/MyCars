@@ -1,0 +1,13 @@
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+footer p{
+    width: 50%;
+    font-size: 1.3rem;
+}
+footer .autor{
+    margin: 0;
+}

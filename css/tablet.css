@@ -1,0 +1,30 @@
+header{
+    align-items: center;
+}
+header .logo-platzi-container{
+    width: 33%;
+    max-width: 200px;
+    height: auto;
+    order: 1;
+}
+header .title-container {
+    width: 34%;
+    max-width: 300px;
+    height: auto;
+    order: 2;
+}
+header .logo-js-container{
+    width: 33%;
+    max-width: 200px;
+    height: auto;
+    order: 3;
+}
+header .title-container h1{
+    padding: 0;
+}
+header .logo-platzi-container {
+    padding: 0;
+}
+header .logo-js-container {
+    padding: 0;
+}
